@@ -1,0 +1,21 @@
+{
+  "id": "e76973d3-9724-4d5b-b0f4-8a79dab64c73",
+  "uid": "aspernatur-qui-accusamus",
+  "type": "Publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Consectetur proident ad cillum. Mollit nulla irure commodo officia ea officia excepteur officia.",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Mollit consequat nostrud duis consequat sint adipisicing excepteur magna qui eiusmod ex culpa enim reprehenderit esse.",
+        "spans": []
+      }
+    ]
+  }
+}
